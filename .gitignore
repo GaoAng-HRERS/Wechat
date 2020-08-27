@@ -1,0 +1,6 @@
+.idea/
+catalina.home_IS_UNDEFINED/
+target/
+src/main/webapp/wechatMobile/dist/
+src/main/webapp/wechatMobile/node_modules/
+/bin/
